@@ -1,5 +1,3 @@
-# coding: utf-8
-#
 # Usage:
 # python3 life-game.py
 #
@@ -7,10 +5,10 @@
 #
 
 import copy
-import random
-import time
 import os
+import random
 import sys
+import time
 from os import path
 
 
